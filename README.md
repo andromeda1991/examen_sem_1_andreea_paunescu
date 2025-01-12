@@ -7,4 +7,4 @@ Retea supermarketuri
 Entitatile:
 
 
-[Diagrama_mea](pregatire_examen.drawio.png)
+![Diagrama_mea](pregatire_examen.drawio.png)
